@@ -1,0 +1,7 @@
+ cd desktop
+ git init
+ git config --global user.name "manuhackzzz"
+ git remote add myRemote https://github.com/manuhackzzz/TrainingOrg.git
+ git checkout -b myBranchgit 
+ git add "myFolder"
+ git push myRemote myBranch
